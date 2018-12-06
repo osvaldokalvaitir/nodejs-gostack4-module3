@@ -12,6 +12,8 @@
 
   - [Bibliotecas](#bibliotecas)
 
+  - [Outras Ferramentas](#outras-ferramentas)
+
 ## Desenvolvimento
 
 ### Configurações Iniciais
@@ -32,4 +34,12 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [Express](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/express.md)
 
+- [Mongoose](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/mongoose.md)
+
 - [Nodemon](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/nodemon.md)
+
+### Outras Ferramentas
+
+- [Docker](https://github.com/osvaldokalvaitir/projects-settings/blob/master/docker/docker.md)
+
+  - [Imagem do Mongo](https://github.com/osvaldokalvaitir/projects-settings/blob/master/docker/images/mongodb.md)
