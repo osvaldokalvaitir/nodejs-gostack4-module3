@@ -43,3 +43,5 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 - [Docker](https://github.com/osvaldokalvaitir/projects-settings/blob/master/docker/docker.md)
 
   - [Imagem do Mongo](https://github.com/osvaldokalvaitir/projects-settings/blob/master/docker/images/mongodb.md)
+
+- [Insomnia](https://github.com/osvaldokalvaitir/projects-settings/blob/master/api/insomnia.md)
