@@ -42,6 +42,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [Mongoose Paginate](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/mongoose-paginate.md)
 
+- [Nodemailer](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/nodemailer.md)
+
 - [Nodemon](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/nodemon.md)
 
 - [requireDir](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/requiredir.md)
@@ -51,5 +53,7 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 - [Docker](https://github.com/osvaldokalvaitir/projects-settings/blob/master/docker/docker.md)
 
   - [Imagem do Mongo](https://github.com/osvaldokalvaitir/projects-settings/blob/master/docker/images/mongodb.md)
+
+- [Mailtrap](https://github.com/osvaldokalvaitir/projects-settings/blob/master/email/mailtrap.md)
 
 - [Insomnia](https://github.com/osvaldokalvaitir/projects-settings/blob/master/api/insomnia.md)
