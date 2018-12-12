@@ -40,6 +40,9 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [Express Handlebars plugin for Nodemailer](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/nodemailer-express-handlebars.md)
 
+- [Express Validation](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/express-validation.md)
+
+- [Joi](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/joi.md)
 
 - [Json Web Token](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/jsonwebtoken.md)
 
