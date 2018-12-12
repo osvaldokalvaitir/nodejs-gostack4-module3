@@ -43,6 +43,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [Json Web Token](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/jsonwebtoken.md)
 
+- [Kue](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/kue.md)
+
 - [Mongoose](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/mongoose.md)
 
 - [Mongoose Paginate](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/mongoose-paginate.md)
@@ -58,6 +60,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 - [Docker](https://github.com/osvaldokalvaitir/projects-settings/blob/master/docker/docker.md)
 
   - [Imagem do Mongo](https://github.com/osvaldokalvaitir/projects-settings/blob/master/docker/images/mongodb.md)
+
+  - [Imagem do Redis](https://github.com/osvaldokalvaitir/projects-settings/blob/master/docker/images/redis.md)
 
 - [Mailtrap](https://github.com/osvaldokalvaitir/projects-settings/blob/master/email/mailtrap.md)
 
