@@ -1,5 +1,19 @@
 # Node - Módulo 3
 
+Aplicação Marketplace usando Node.js, Express, Mongoose, Json Web Token, Nodemailer, Joi, Kue e Sentry.
+
+## Resumo
+
+Esta aplicação foi desenvolvida para realizar os seguintes procedimentos:
+
+- Adiciona novos usuários
+- Adiciona nova sessão quando o usuário logar
+- Adiciona novos anúncios
+- Busca todos os anúncios podendo receber filtros
+- Busca somente dados de um anúncio selecionado
+- Edita dados de anúncios existentes
+- Exclui anúncios existentes
+
 ## Índice
 
 - [Desenvolvimento](#desenvolvimento)
@@ -33,6 +47,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 - [@sentry/node](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@sentry-node.md)
 
 - [bcrypt.js](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/bcryptjs.md)
+
+- [dotenv](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/dotenv.md)
 
 - [ESLint](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/eslint.md)
 
