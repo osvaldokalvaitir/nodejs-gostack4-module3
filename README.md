@@ -13,6 +13,7 @@ Esta aplicação foi desenvolvida para realizar os seguintes procedimentos:
 - Lista somente dados de um anúncio selecionado
 - Edita dados de anúncios existentes
 - Exclui anúncios existentes
+- Adiciona nova intenção de compra
 
 ## Índice
 
