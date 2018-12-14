@@ -84,9 +84,9 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [Docker](https://github.com/osvaldokalvaitir/projects-settings/blob/master/docker/docker.md)
 
-  - [Imagem do Mongo](https://github.com/osvaldokalvaitir/projects-settings/blob/master/docker/images/mongodb.md)
+  - Imagem do MongoDB: [mongo](https://github.com/osvaldokalvaitir/projects-settings/blob/master/docker/images/mongo.md)
 
-  - [Imagem do Redis](https://github.com/osvaldokalvaitir/projects-settings/blob/master/docker/images/redis.md)
+  - Imagem do Redis: [redis:alpine](https://github.com/osvaldokalvaitir/projects-settings/blob/master/docker/images/redis-alpine.md)
 
 - [Mailtrap](https://github.com/osvaldokalvaitir/projects-settings/blob/master/email/mailtrap.md)
 
