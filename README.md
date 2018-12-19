@@ -2,20 +2,9 @@
 
 Aplicação Marketplace usando Node.js, Express, Mongoose, Json Web Token, Nodemailer, Joi, Kue e Sentry.
 
-## Resumo
-
-Esta aplicação foi desenvolvida para realizar os seguintes procedimentos:
-
-- Adiciona novos usuários
-- Adiciona nova sessão quando o usuário logar
-- Adiciona novos anúncios
-- Lista todos os anúncios podendo receber filtros
-- Lista somente dados de um anúncio selecionado
-- Edita dados de anúncios existentes
-- Exclui anúncios existentes
-- Adiciona nova intenção de compra
-
 ## Índice
+
+- [Rotas](#rotas)
 
 - [Desenvolvimento](#desenvolvimento)
 
@@ -28,6 +17,17 @@ Esta aplicação foi desenvolvida para realizar os seguintes procedimentos:
   - [Bibliotecas](#bibliotecas)
 
   - [Outras Ferramentas](#outras-ferramentas)
+
+## Rotas
+
+- Adiciona novos usuários
+- Adiciona nova sessão quando o usuário logar
+- Adiciona novos anúncios
+- Lista todos os anúncios podendo receber filtros
+- Lista somente dados de um anúncio selecionado
+- Edita dados de anúncios existentes
+- Exclui anúncios existentes
+- Adiciona nova intenção de compra
 
 ## Desenvolvimento
 
