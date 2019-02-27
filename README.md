@@ -93,4 +93,4 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [Insomnia](https://github.com/osvaldokalvaitir/projects-settings/blob/master/api/insomnia.md)
 
-- [Sentry](https://github.com/osvaldokalvaitir/projects-settings/blob/master/errors/sentry.md)
+- [Sentry](https://github.com/osvaldokalvaitir/projects-settings/blob/master/error/sentry.md)
