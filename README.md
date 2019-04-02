@@ -30,14 +30,24 @@ Aplicação Marketplace usando Node.js, Express, Mongoose, Json Web Token, Nodem
 
 ## Rotas
 
-- Adiciona novos usuários
-- Adiciona nova sessão quando o usuário logar
-- Adiciona novos anúncios
-- Lista todos os anúncios podendo receber filtros
-- Lista somente dados de um anúncio selecionado
-- Edita dados de anúncios existentes
-- Exclui anúncios existentes
-- Adiciona nova intenção de compra
+- Intenções de Compras
+
+  - Adiciona nova intenção de compra
+
+- Anúncios
+
+  - Lista todos os anúncios
+  - Lista somente dados de um anúncio
+  - Adiciona novos anúncios
+  - Edita dados de anúncios existentes
+  - Exclui anúncios existentes
+
+- Sessões
+
+  - Adiciona novas sessões
+
+- Usuários
+  - Adiciona novos usuários
 
 ## Desenvolvimento
 
