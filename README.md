@@ -47,6 +47,7 @@ Aplicação Marketplace usando Node.js, Express, Mongoose, Json Web Token, Nodem
   - Adiciona novas sessões
 
 - Usuários
+
   - Adiciona novos usuários
 
 ## Desenvolvimento
