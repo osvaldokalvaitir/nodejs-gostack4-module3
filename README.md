@@ -14,8 +14,6 @@ Aplicação Marketplace usando Node.js, Express, Mongoose, Json Web Token, Nodem
 
 ## Índice
 
-- [Rotas](#rotas)
-
 - [Desenvolvimento](#desenvolvimento)
 
   - [Configurações Iniciais](#configurações-iniciais)
@@ -24,31 +22,13 @@ Aplicação Marketplace usando Node.js, Express, Mongoose, Json Web Token, Nodem
 
   - [Execução do Projeto](#execução-do-projeto)
 
+- [Utilizados no Projeto](#utilizados-no-projeto)
+
   - [Bibliotecas](#bibliotecas)
+  
+  - [APIs](#apis)
 
-  - [Outras Ferramentas](#outras-ferramentas)
-
-## Rotas
-
-- Intenções de Compras
-
-  - Adiciona nova intenção de compra
-
-- Anúncios
-
-  - Lista todos os anúncios
-  - Lista somente dados de um anúncio
-  - Adiciona novos anúncios
-  - Edita dados de anúncios existentes
-  - Exclui anúncios existentes
-
-- Sessões
-
-  - Adiciona novas sessões
-
-- Usuários
-
-  - Adiciona novos usuários
+  - [Ferramentas](#ferramentas)
 
 ## Desenvolvimento
 
@@ -63,6 +43,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 ### Execução do Projeto
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Execução de Projeto.
+
+## Utilizados no Projeto
 
 ### Bibliotecas
 
@@ -102,7 +84,33 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [Youch](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/youch.md)
 
-### Outras Ferramentas
+### APIs
+
+- **Interna**
+
+  - **Rotas**
+
+    - Intenções de Compras
+
+      - Adiciona nova intenção de compra
+
+    - Anúncios
+
+        - Lista todos os anúncios
+        - Lista somente dados de um anúncio
+        - Adiciona novos anúncios
+        - Edita dados de anúncios existentes
+        - Exclui anúncios existentes
+
+    - Sessões
+
+        - Adiciona novas sessões
+
+    - Usuários
+
+        - Adiciona novos usuários
+
+### Ferramentas
 
 - [Docker](https://github.com/osvaldokalvaitir/projects-settings/blob/master/virtualization/docker/docker.md)
 
