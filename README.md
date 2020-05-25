@@ -1,12 +1,12 @@
-# Node - Módulo 3
+# Node.js - Módulo 3
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/node-modulo3/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/node-modulo3.svg)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/node-modulo3.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/node-modulo3.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/node-modulo3.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/node-modulo3.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/node-modulo3.svg?color=blueviolet)
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/nodejs-modulo3/blob/master/LICENSE)
+![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/nodejs-modulo3.svg)
+![](https://img.shields.io/github/last-commit/osvaldokalvaitir/nodejs-modulo3.svg?color=red)
+![](https://img.shields.io/github/languages/top/osvaldokalvaitir/nodejs-modulo3.svg?color=yellow)
+![](https://img.shields.io/github/languages/count/osvaldokalvaitir/nodejs-modulo3.svg?color=lightgrey)
+![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/nodejs-modulo3.svg)
+![](https://img.shields.io/github/repo-size/osvaldokalvaitir/nodejs-modulo3.svg?color=blueviolet)
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
