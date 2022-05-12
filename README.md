@@ -1,131 +1,61 @@
-# Node.js - Módulo 3
+<h1 align="center">
+    <img src="/.github/assets/logo.png"
+    width="200px"
+    alt="Logo" />
+</h1>
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/nodejs-modulo3/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/nodejs-modulo3.svg)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/nodejs-modulo3.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/nodejs-modulo3.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/nodejs-modulo3.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/nodejs-modulo3.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/nodejs-modulo3.svg?color=blueviolet)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+<h3 align="center">
+  Node.js - GoStack 4 Module 3
+</h3>
 
-Aplicação Marketplace usando Node.js, Express, Mongoose, Json Web Token, Nodemailer, Joi, Kue e Sentry.
+<p align="center">
+  :shopping_cart: Marketplace Application using Node.js, Express, Mongoose, Json Web Token, Nodemailer, Joi, Kue, Insomnia, Docker, Mailtrap and Sentry
+</p>
 
-## Índice
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osvaldokalvaitir/nodejs-gostack4-module3.svg?color=00A83A">
 
-- [Desenvolvimento](#desenvolvimento)
+  <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/nodejs-gostack4-module3.svg?color=00A83A">
 
-  - [Configuração do Ambiente](#configuração-do-ambiente)
+  <a href="https://kalvaitir.com/">
+    <img alt="Made by Kalvaitir" src="https://img.shields.io/badge/made%20by-Kalvaitir-00A83A">
+  </a>
 
-  - [Instalação do Projeto](#instalação-do-projeto)
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-00A83A">
+</p>
 
-  - [Configuração das Variáveis de Ambiente](#configuração-das-variáveis-de-ambiente)
+<p align="center">
+  <a href="#wrench-install-and-run">Install and run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#memo-license">License</a>
+</p>
 
-  - [Execução do Projeto](#execução-do-projeto)
+## :wrench: Install and run
 
-- [Utilizados no Projeto](#utilizados-no-projeto)
+Open terminal:
 
-  - [Bibliotecas](#bibliotecas)
+```sh
+# Clone this repo
+git clone https://github.com/osvaldokalvaitir/nodejs-gostack4-module3
 
-  - [APIs](#apis)
+# Entry in folder
+cd nodejs-gostack4-module3
 
-  - [Ferramentas](#ferramentas)
+# Install deps with npm or yarn
+npm install | yarn
 
-## Desenvolvimento
+# Make a copy of the .env.example file, rename it to .env and change the variables according to your environment.
 
-### Configuração do Ambiente
+# Launch the app with npm or yarn
+npm dev | yarn dev
+```
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configuração de Ambiente`.
+Click to learn more about the tools used: [Insomnia](https://github.com/osvaldokalvaitir/awesome/blob/main/src/api-clients/insomnia/insomnia.md), [Docker](https://github.com/osvaldokalvaitir/awesome/blob/main/src/containers/docker/docker.md), [MongoDB Docker Image mongo](https://github.com/osvaldokalvaitir/awesome/blob/main/src/containers/docker/images/mongo.md), [Redis Docker Image redis:alpine](https://github.com/osvaldokalvaitir/awesome/blob/main/src/containers/docker/images/redis-alpine.md), [Mailtrap](https://github.com/osvaldokalvaitir/awesome/blob/main/src/emails/mailtrap.md), [Sentry](https://github.com/osvaldokalvaitir/awesome/blob/main/src/errors/sentry.md).
 
-### Instalação do Projeto
+## :memo: License
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
+This project is under the MIT license. See [LICENSE](/LICENSE) for more information.
 
-### Configuração das Variáveis de Ambiente
+---
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/dotenv.md) e siga `Configuração de Variáveis de Ambiente`.
-
-### Execução do Projeto
-
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Execução de Projeto para Desenvolvimento` ou `Execução de Projeto para Produção`.
-
-## Utilizados no Projeto
-
-### Bibliotecas
-
-- [@sentry/node](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@sentry-node.md)
-
-- [bcrypt.js](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/bcryptjs.md)
-
-- [dotenv](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/dotenv.md)
-
-- [ESLint](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/eslint.md)
-
-- [Express](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/express.md)
-
-- [Express Async Handler](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/express-async-handler.md)
-
-- [Express Handlebars](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/express-handlebars.md)
-
-- [Express Handlebars plugin for Nodemailer](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/nodemailer-express-handlebars.md)
-
-- [Express Validation](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/express-validation.md)
-
-- [Joi](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/joi.md)
-
-- [Json Web Token](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/jsonwebtoken.md)
-
-- [Kue](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/kue.md)
-
-- [Mongoose](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/mongoose.md)
-
-- [Mongoose Paginate](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/mongoose-paginate.md)
-
-- [Nodemailer](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/nodemailer.md)
-
-- [Nodemon](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/nodemon.md)
-
-- [requireDir](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/requiredir.md)
-
-- [Youch](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/youch.md)
-
-### APIs
-
-- **Interna**
-
-  - **Rotas**
-
-    - Intenções de Compras
-
-      - Adiciona nova intenção de compra
-
-    - Anúncios
-
-        - Lista todos os anúncios
-        - Lista somente dados de um anúncio
-        - Adiciona novos anúncios
-        - Edita dados de anúncios existentes
-        - Exclui anúncios existentes
-
-    - Sessões
-
-        - Adiciona novas sessões
-
-    - Usuários
-
-        - Adiciona novos usuários
-
-### Ferramentas
-
-- [Docker](https://github.com/osvaldokalvaitir/projects-settings/blob/master/virtualization/docker/docker.md)
-
-  - Imagem do MongoDB: [mongo](https://github.com/osvaldokalvaitir/projects-settings/blob/master/virtualization/docker/images/mongo.md)
-
-  - Imagem do Redis: [redis:alpine](https://github.com/osvaldokalvaitir/projects-settings/blob/master/virtualization/docker/images/redis-alpine.md)
-
-- [Mailtrap](https://github.com/osvaldokalvaitir/projects-settings/blob/master/email/mailtrap.md)
-
-- [Insomnia](https://github.com/osvaldokalvaitir/projects-settings/blob/master/api-client/insomnia.md)
-
-- [Sentry](https://github.com/osvaldokalvaitir/projects-settings/blob/master/error/sentry.md)
+<p align="center">
+Developed with 💚 by <a href="https://www.linkedin.com/in/osvaldokalvaitir">Osvaldo Kalvaitir Filho</a>
+</p>
