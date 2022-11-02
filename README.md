@@ -45,7 +45,7 @@ npm install | yarn
 # Make a copy of the .env.example file, rename it to .env and change the variables according to your environment.
 
 # Launch the app with npm or yarn
-npm dev | yarn dev
+npm run dev | yarn dev
 ```
 
 Click to learn more about the tools used: [Insomnia](https://github.com/osvaldokalvaitir/awesome/blob/main/src/api-clients/insomnia/insomnia.md), [Docker](https://github.com/osvaldokalvaitir/awesome/blob/main/src/containers/docker/docker.md), [MongoDB Docker Image mongo](https://github.com/osvaldokalvaitir/awesome/blob/main/src/containers/docker/images/mongo.md), [Redis Docker Image redis:alpine](https://github.com/osvaldokalvaitir/awesome/blob/main/src/containers/docker/images/redis-alpine.md), [Mailtrap](https://github.com/osvaldokalvaitir/awesome/blob/main/src/emails/mailtrap.md), [Sentry](https://github.com/osvaldokalvaitir/awesome/blob/main/src/errors/sentry.md).
